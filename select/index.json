@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "イト",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-03-09T11:12:19.781843Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イト",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/01_イト_クリープハイプ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イト",
+      "artist": "Creep Hyp",
+      "has_synced": true,
+      "path": "select/02_イト_Creep_Hyp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イト",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/03_イト_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イト - Ito",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/04_イト_-_Ito_CreepHyp.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "イト",
+      "artist": "Lefty Hand Cream",
+      "has_synced": false,
+      "path": "select/05_イト_Lefty_Hand_Cream.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イト",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_イト_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "イト",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_02_イト_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "イト",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_03_イト_クリープハイプ.txt"
+    }
+  ]
+}
